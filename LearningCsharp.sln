@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Start", "Start", "{38CDA596-C66A-48B9-A935-0C47B1E67AC5}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Overview", "Overview", "{3183F1D1-867D-447C-A530-BD70CBC74A5F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "HelloWorld", "Start\Overview\HelloWorld\HelloWorld.csproj", "{3C7F7E83-D7CF-422C-9AC2-90B1B7F83483}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C7F7E83-D7CF-422C-9AC2-90B1B7F83483}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C7F7E83-D7CF-422C-9AC2-90B1B7F83483}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C7F7E83-D7CF-422C-9AC2-90B1B7F83483}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C7F7E83-D7CF-422C-9AC2-90B1B7F83483}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{3183F1D1-867D-447C-A530-BD70CBC74A5F} = {38CDA596-C66A-48B9-A935-0C47B1E67AC5}
+		{3C7F7E83-D7CF-422C-9AC2-90B1B7F83483} = {3183F1D1-867D-447C-A530-BD70CBC74A5F}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {447872F7-46B6-4AD1-8745-5040B3AC5516}
+	EndGlobalSection
+EndGlobal

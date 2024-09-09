@@ -1,0 +1,15 @@
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.exe
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.deps.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.runtimeconfig.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\bin\Debug\net8.0\VarsAndData.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.AssemblyInfoInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.AssemblyInfo.cs
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.csproj.CoreCompileInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.sourcelink.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\obj\Debug\net8.0\refint\VarsAndData.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\obj\Debug\net8.0\VarsAndData.genruntimeconfig.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Overview\VarsAndData\obj\Debug\net8.0\ref\VarsAndData.dll

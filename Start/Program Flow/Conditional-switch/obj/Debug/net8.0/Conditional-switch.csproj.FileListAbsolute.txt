@@ -1,0 +1,15 @@
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\bin\Debug\net8.0\Conditional-switch.exe
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\bin\Debug\net8.0\Conditional-switch.deps.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\bin\Debug\net8.0\Conditional-switch.runtimeconfig.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\bin\Debug\net8.0\Conditional-switch.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\bin\Debug\net8.0\Conditional-switch.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.AssemblyInfoInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.AssemblyInfo.cs
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.csproj.CoreCompileInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.sourcelink.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\obj\Debug\net8.0\refint\Conditional-switch.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\obj\Debug\net8.0\Conditional-switch.genruntimeconfig.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-switch\obj\Debug\net8.0\ref\Conditional-switch.dll

@@ -1,0 +1,15 @@
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\bin\Debug\net8.0\Conditional-if.exe
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\bin\Debug\net8.0\Conditional-if.deps.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\bin\Debug\net8.0\Conditional-if.runtimeconfig.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\bin\Debug\net8.0\Conditional-if.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\bin\Debug\net8.0\Conditional-if.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\obj\Debug\net8.0\Conditional-if.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\obj\Debug\net8.0\Conditional-if.AssemblyInfoInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\obj\Debug\net8.0\Conditional-if.AssemblyInfo.cs
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\obj\Debug\net8.0\Conditional-if.csproj.CoreCompileInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\obj\Debug\net8.0\Conditional-if.sourcelink.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\obj\Debug\net8.0\Conditional-if.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\obj\Debug\net8.0\refint\Conditional-if.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\obj\Debug\net8.0\Conditional-if.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\obj\Debug\net8.0\Conditional-if.genruntimeconfig.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Program Flow\Conditional-if\obj\Debug\net8.0\ref\Conditional-if.dll
