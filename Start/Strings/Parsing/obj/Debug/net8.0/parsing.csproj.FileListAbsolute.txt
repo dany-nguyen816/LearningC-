@@ -1,0 +1,15 @@
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\obj\Debug\net8.0\parsing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\obj\Debug\net8.0\parsing.AssemblyInfoInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\obj\Debug\net8.0\parsing.AssemblyInfo.cs
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\obj\Debug\net8.0\parsing.csproj.CoreCompileInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\obj\Debug\net8.0\parsing.sourcelink.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\bin\Debug\net8.0\parsing.exe
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\bin\Debug\net8.0\parsing.deps.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\bin\Debug\net8.0\parsing.runtimeconfig.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\bin\Debug\net8.0\parsing.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\bin\Debug\net8.0\parsing.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\obj\Debug\net8.0\parsing.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\obj\Debug\net8.0\refint\parsing.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\obj\Debug\net8.0\parsing.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\obj\Debug\net8.0\parsing.genruntimeconfig.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Strings\parsing\obj\Debug\net8.0\ref\parsing.dll

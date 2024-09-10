@@ -1,0 +1,15 @@
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\bin\Debug\net8.0\MultiValues.exe
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\bin\Debug\net8.0\MultiValues.deps.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\bin\Debug\net8.0\MultiValues.runtimeconfig.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\bin\Debug\net8.0\MultiValues.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\bin\Debug\net8.0\MultiValues.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\obj\Debug\net8.0\MultiValues.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\obj\Debug\net8.0\MultiValues.AssemblyInfoInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\obj\Debug\net8.0\MultiValues.AssemblyInfo.cs
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\obj\Debug\net8.0\MultiValues.csproj.CoreCompileInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\obj\Debug\net8.0\MultiValues.sourcelink.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\obj\Debug\net8.0\MultiValues.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\obj\Debug\net8.0\refint\MultiValues.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\obj\Debug\net8.0\MultiValues.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\obj\Debug\net8.0\MultiValues.genruntimeconfig.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\MultiValues\obj\Debug\net8.0\ref\MultiValues.dll

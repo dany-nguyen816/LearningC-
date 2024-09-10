@@ -1,0 +1,15 @@
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.exe
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.deps.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.runtimeconfig.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\bin\Debug\net8.0\DefaultParams.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.AssemblyInfoInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.AssemblyInfo.cs
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.csproj.CoreCompileInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.sourcelink.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\obj\Debug\net8.0\refint\DefaultParams.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\obj\Debug\net8.0\DefaultParams.genruntimeconfig.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\DefaultParams\obj\Debug\net8.0\ref\DefaultParams.dll

@@ -1,0 +1,5 @@
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\PalindromeChallenge\obj\Debug\net8.0\PalindromeChallenge.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\PalindromeChallenge\obj\Debug\net8.0\PalindromeChallenge.AssemblyInfoInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\PalindromeChallenge\obj\Debug\net8.0\PalindromeChallenge.AssemblyInfo.cs
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\PalindromeChallenge\obj\Debug\net8.0\PalindromeChallenge.csproj.CoreCompileInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\Start\Functions\PalindromeChallenge\obj\Debug\net8.0\PalindromeChallenge.sourcelink.json
