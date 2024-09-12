@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Inheritance\\Inheritance.csproj": {}
+    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\inheritance\\Inheritance.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Inheritance\\Inheritance.csproj": {
+    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\inheritance\\Inheritance.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Inheritance\\Inheritance.csproj",
+        "projectUniqueName": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\inheritance\\Inheritance.csproj",
         "projectName": "Inheritance",
-        "projectPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Inheritance\\Inheritance.csproj",
+        "projectPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\inheritance\\Inheritance.csproj",
         "packagesPath": "C:\\Users\\Dany\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Inheritance\\obj\\",
+        "outputPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\inheritance\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

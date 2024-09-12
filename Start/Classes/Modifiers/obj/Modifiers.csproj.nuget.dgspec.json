@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Modifiers\\Modifiers.csproj": {}
+    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\Modifiers\\Modifiers.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Modifiers\\Modifiers.csproj": {
+    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\Modifiers\\Modifiers.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Modifiers\\Modifiers.csproj",
+        "projectUniqueName": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\Modifiers\\Modifiers.csproj",
         "projectName": "Modifiers",
-        "projectPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Modifiers\\Modifiers.csproj",
+        "projectPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\Modifiers\\Modifiers.csproj",
         "packagesPath": "C:\\Users\\Dany\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Modifiers\\obj\\",
+        "outputPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\Modifiers\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

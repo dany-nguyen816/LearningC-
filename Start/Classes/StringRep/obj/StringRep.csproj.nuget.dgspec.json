@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\StringRep\\StringRep.csproj": {}
+    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\stringrep\\StringRep.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\StringRep\\StringRep.csproj": {
+    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\stringrep\\StringRep.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\StringRep\\StringRep.csproj",
+        "projectUniqueName": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\stringrep\\StringRep.csproj",
         "projectName": "StringRep",
-        "projectPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\StringRep\\StringRep.csproj",
+        "projectPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\stringrep\\StringRep.csproj",
         "packagesPath": "C:\\Users\\Dany\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\StringRep\\obj\\",
+        "outputPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\stringrep\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

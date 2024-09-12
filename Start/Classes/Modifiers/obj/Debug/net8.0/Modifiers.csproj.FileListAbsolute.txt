@@ -1,0 +1,15 @@
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\bin\Debug\net8.0\Modifiers.exe
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\bin\Debug\net8.0\Modifiers.deps.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\bin\Debug\net8.0\Modifiers.runtimeconfig.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\bin\Debug\net8.0\Modifiers.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\bin\Debug\net8.0\Modifiers.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\obj\Debug\net8.0\Modifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\obj\Debug\net8.0\Modifiers.AssemblyInfoInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\obj\Debug\net8.0\Modifiers.AssemblyInfo.cs
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\obj\Debug\net8.0\Modifiers.csproj.CoreCompileInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\obj\Debug\net8.0\Modifiers.sourcelink.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\obj\Debug\net8.0\Modifiers.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\obj\Debug\net8.0\refint\Modifiers.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\obj\Debug\net8.0\Modifiers.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\obj\Debug\net8.0\Modifiers.genruntimeconfig.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\Modifiers\obj\Debug\net8.0\ref\Modifiers.dll

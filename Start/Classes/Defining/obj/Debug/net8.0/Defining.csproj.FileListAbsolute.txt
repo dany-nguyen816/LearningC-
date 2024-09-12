@@ -1,0 +1,15 @@
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\obj\Debug\net8.0\Defining.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\obj\Debug\net8.0\Defining.AssemblyInfoInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\obj\Debug\net8.0\Defining.AssemblyInfo.cs
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\obj\Debug\net8.0\Defining.csproj.CoreCompileInputs.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\obj\Debug\net8.0\Defining.sourcelink.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\bin\Debug\net8.0\Defining.exe
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\bin\Debug\net8.0\Defining.deps.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\bin\Debug\net8.0\Defining.runtimeconfig.json
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\bin\Debug\net8.0\Defining.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\bin\Debug\net8.0\Defining.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\obj\Debug\net8.0\Defining.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\obj\Debug\net8.0\refint\Defining.dll
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\obj\Debug\net8.0\Defining.pdb
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\obj\Debug\net8.0\Defining.genruntimeconfig.cache
+C:\Users\Dany\Personal\LearningC#\LearningCsharp\start\classes\defining\obj\Debug\net8.0\ref\Defining.dll

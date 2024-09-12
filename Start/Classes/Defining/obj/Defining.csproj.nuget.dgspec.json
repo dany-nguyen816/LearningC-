@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Defining\\Defining.csproj": {}
+    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\defining\\Defining.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Defining\\Defining.csproj": {
+    "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\defining\\Defining.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Defining\\Defining.csproj",
+        "projectUniqueName": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\defining\\Defining.csproj",
         "projectName": "Defining",
-        "projectPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Defining\\Defining.csproj",
+        "projectPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\defining\\Defining.csproj",
         "packagesPath": "C:\\Users\\Dany\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\Start\\Classes\\Defining\\obj\\",
+        "outputPath": "C:\\Users\\Dany\\Personal\\LearningC#\\LearningCsharp\\start\\classes\\defining\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "G:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

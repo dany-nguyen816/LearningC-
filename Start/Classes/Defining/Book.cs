@@ -6,12 +6,21 @@ namespace Defining
     public class Book
     {
         // TODO: classes have member variables, or "fields" to hold data
-
+        string _name;
+        string _author;
+        int _pagecount;
 
         // TODO: classes have one or more constructors
+        public Book(string name, string author, int pages) {
+            _name = name;
+            _author = author;
+            _pagecount = pages;
 
+        }
 
         // TODO: methods are used to operate on the class and data
-
+        public string GetDescription() {
+            return $"{_name} by {_author}";
+        }
     }
 }

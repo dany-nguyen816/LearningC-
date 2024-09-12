@@ -11,11 +11,14 @@ namespace Modifiers
 
             // In previous example, this would fail, but will now
             // work since the field name is declared as public
-            b1._name = "Aldous Huxley";
-            Console.WriteLine(b1.GetDescription());
+            // b1._name = "Aldous Huxley";
+            // Console.WriteLine(b1.GetDescription());
 
             // TODO: set data using functions instead of accessing fields directly
-
+            b1.SetName("Grapes of Wrath");
+            b1.SetAuthor("John Steinbeck");
+            b1.SetPageCount(464);
+            Console.WriteLine(b1.GetDescription());
         }
     }
 }
